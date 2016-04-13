@@ -1,31 +1,31 @@
 {
   "subtitle": "", 
-  "description": "Averigua cu\u00e1l es el tratamiento", 
+  "description": "Si el mosquito no te pica, no hay zika.", 
   "language": "spa_ES", 
-  "title": "\u00bfC\u00f3mo se trata el virus del Zika?", 
+  "title": "\u00bfC\u00f3mo puedo prevenir que me pique el mosquito del Zika?", 
   "primary_category": "9d023aecc00d43bfbbc2856b016d7ec1", 
   "created_at": "2016-02-22T06:49:15+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-07T06:01:07.362129+00:00", 
+  "modified_at": "2016-04-13T20:27:13.232388+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "0595d39894234a1db8380f3fd5e18eaa"
   ], 
   "id": null, 
-  "content": "Los s\u00edntomas de la enfermedad por el virus Zika se pueden tratar con medicamentos para el dolor y la fiebre comunes (pero no tomes aspirina ni medicamentos antiinflamatorios no esteroides), el descanso y mucha agua.\r\n\r\nEn la actualidad, no existen vacunas ni tratamientos espec\u00edficos para la enfermedad. Si los s\u00edntomas empeoran, las personas afectadas deben buscar atenci\u00f3n m\u00e9dica.\r\n\r\nArt\u00edculo siguiente:", 
+  "content": "1. Utiliza pantal\u00f3n, camisa o blusa de manga larga, de preferencia de colores claros (as\u00ed podr\u00e1s ver si alg\u00fan mosquito se posa sobre ti), que te cubra la mayor parte del cuerpo y apl\u00edcate repelente varias veces al d\u00eda.\r\n\r\n2. Debes utilizar mosquiteros que cubran el lugar donde duermes, as\u00ed los mantendr\u00e1s alejados mientras descansas y no podr\u00e1n picarte. Los mosquitos salen en las noches, pero tambi\u00e9n pican temprano en las ma\u00f1anas.\r\n    \r\n3. Es necesario que cubras tus ventanas con mallas o mosquiteros que eviten que los mosquitos ingresen a tu casa.  \r\n    \r\n4. Si hubiera alguien que ya ha sido picado por este mosquito, (que tambi\u00e9n transmite el dengue y la chikungunya), debe estar en una habitaci\u00f3n y reposar en una cama que tenga mosquitero. S\u00f3lo as\u00ed se podr\u00e1 evitar que nuevamente le pique un mosquito y transmita la enfermedad a una persona sana. La persona que ya ha sido picada debe seguir aplic\u00e1ndose repelente y as\u00ed evitar que le vuelva a picar.\r\n\r\nArt\u00edculo siguiente:", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
-  "image": "9d098030f79c44679530103a0b50909b", 
+  "image": "ed4ff760b22149d29bf09ffc3ef03503", 
   "published": null, 
   "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "como-se-trata-el-virus-del-zika", 
+  "slug": "como-puedo-prevenir-que-me-pique-el-mosquito-del-zika", 
   "uuid": "c6fec3b2214f4794a904f539fe066d6d"
 }
