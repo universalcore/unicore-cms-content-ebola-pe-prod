@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Reconoce los s\u00edntomas del virus del Zika ", 
+  "description": "Sigue estos consejos.", 
   "language": "spa_ES", 
   "title": "\u00bfC\u00f3mo evitar que el mosquito del Zika entre a mi casa?", 
   "primary_category": "9d023aecc00d43bfbbc2856b016d7ec1", 
   "created_at": "2016-03-07T05:57:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-13T20:07:13.394694+00:00", 
+  "modified_at": "2016-04-13T20:07:52.305394+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
