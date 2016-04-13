@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "fbc97bddbb56420f8310a64b05d2b24c"
+  ], 
   "id": null, 
   "content": "Es una enfermedad  causada por la picadura de un mosquito (el Aedes, el mismo que transmite el dengue y la chikungunya) y que produce fiebre, sarpullido, conjuntivitis, dolores musculares y malestar general.\r\n\r\nArt\u00edculo siguiente:\r\n\r\n", 
   "source": null, 
